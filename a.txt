@@ -4,3 +4,4 @@ Nội dung a
 Sua doi boi may tinh Ubuntu
 
 Sua doi Update Test 1
+Sua doi Update Test 2 file a.txt
